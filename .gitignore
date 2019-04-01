@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+# Dist
+dist
+out
+.next
+
+# OS
+.DS_Store
+*.swp
+
